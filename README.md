@@ -1,7 +1,7 @@
 # AutoFill-GoogleForm-Proxy
 
 ### Introduction
-To test your google forms, mutiple times, with different email address from different proxys
+To test your google forms, mutiple times, with different email address cycling through different proxys.
 
 ### Initial Setup 
 To setup the script, two main options need to be set up:
@@ -29,7 +29,7 @@ They will look like 'entry.123456' or 'emailAddress'.
 Depending on your needs, you can add/adjust these entries in the GoogleForms.PY script, within the 'get_values' function.
 
 ##### Proxy
-Additionally, for Proxy setup, if you need to circle your IP address, cf. [Using a proxy](#Using a proxy)
+Additionally, for Proxy setup, if you need to circle your IP address, cf. 'Using a proxy'
 
 ### Running the auto form fill script
 
